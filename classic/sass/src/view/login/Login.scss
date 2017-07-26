@@ -1,0 +1,24 @@
+.login-form {
+  .hedar-toolbar {
+    height: 80px;
+    padding: 0;
+    background: #5fa2dd;
+    b {
+      color: #fff;
+      font-size: 24px;
+    }
+    .x-btn-default-toolbar-small {
+      background: transparent;
+      border: 0;
+      width: 100%;
+      height: 80px;
+    }
+  }
+  .login-full-container {
+    background: linear-gradient(to right, rgb(85, 98, 112), rgb(255, 107, 107));
+    .login-field-container {
+      border: 1px solid #ccc;
+      background: #fff;
+    }
+  }
+}
